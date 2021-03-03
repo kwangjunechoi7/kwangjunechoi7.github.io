@@ -96,9 +96,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "KwangJuneChoi"
+  name             : "June"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "배우고 기록합니다. 잘못된 내용이나 수정할 부분 알려주시면 적극적으로 반영하겠습니다."
+  bio              : "Pleasure of learning"
   location         : "Seoul, Korea"
   email            : "kwmme797@gmail.com"
   links:
