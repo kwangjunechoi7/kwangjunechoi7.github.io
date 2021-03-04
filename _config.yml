@@ -16,7 +16,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 locale: "en-US"
-title : "Hi! I'm June"
+title : "June's DevLog"
 title_separator: "-"
 subtitle : "Version 0.1" 
 name  : "June"
@@ -69,6 +69,25 @@ author:
   email     : "kwmme797@gmail.com"
   url      : "https://kwangjunechoi7.github.io/"
   baseurl : "/blog"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kwangjunechoi7"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/"
 
 # Analytics
 analytics:
