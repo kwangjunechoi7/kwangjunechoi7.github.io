@@ -22,6 +22,9 @@ subtitle : "Version 0.1"
 name  : "June"
 description: "June's Home Page"
 url   : "https://kwangjunechoi7.github.io"
+breadcrumbs              : true # true, false (default)
+words_per_minute         : 200
+
 search: true
 
 # Build settings
