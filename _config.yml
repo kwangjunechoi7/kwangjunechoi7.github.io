@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 locale: "en-US"
 title : "Hi! I'm June"
@@ -64,10 +64,8 @@ author:
   bio       : "research&develop&analysis" #"Physics graduate of Ithaca College Post-bacc astrophysics researcher @ Ithaca College"
   location  : "Seoul, Korea"
   email     : "kwmme797@gmail.com"
-  # uri       : "<MY GRAD SCHOOL PAGE WILL GO HERE>"
-  home      : "https://kwangjunechoi7.github.io/"
-  # twitter   : "amassoudpr"
-  # links:
+  url      : "https://kwangjunechoi7.github.io/"
+  baseurl : "/blog"
 
 # Analytics
 analytics:
