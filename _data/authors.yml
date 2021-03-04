@@ -1,0 +1,13 @@
+# /_data/authors.yml
+
+KwangJuneChoi:
+  name        : "June"
+  bio         : "pleasure of learning"
+  avatar      : "/assets/images/1.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "kwmme797@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://kwangjunechoi7.github.io/"
