@@ -76,7 +76,7 @@ analytics:
 
 # 댓글 기능 활성화
 comments:
-  provider               : "default" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus: 
     shortname            : "June" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
