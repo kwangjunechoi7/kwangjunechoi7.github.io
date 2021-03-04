@@ -10,4 +10,4 @@ layout: single
 Hi there!
 
 
-{% include figure image_path="/assets/images/2.jpg" alt="" caption="" %}
+{% include figure image_path="/assets/images/2.png" alt="" caption="" %}
