@@ -63,7 +63,7 @@ plugins:
 # site Author
 author:
   name      : "June"
-  avatar    : "/assets/images/2.jpg"
+  avatar    : "/assets/images/5.jpg"
   bio       : "research&develop&analysis" #"Physics graduate of Ithaca College Post-bacc astrophysics researcher @ Ithaca College"
   location  : "Seoul, Korea"
   email     : "kwmme797@gmail.com"
