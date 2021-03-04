@@ -6,29 +6,16 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
-  #- title: "External Link"
-  #  url: https://google.com
-  #  description: "Google"
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "about"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
-github:
-  - title: "시작하기"
-    url: /it/(1)-github-page-시작하기
-  - title: "레이아웃 정하기"
-    url: /it/(2)-github-page-레이아웃
-  - title: "글쓰기"
-    url: /it/(3)-github-page-글쓰기
-  - title: "LaTex 수식 표현하기"
-    url: /it/(4)-github-page-with-LateX-Expression
-  - title: "이미지 올리기"
-    url: /it/(5)-github-page-Image-upload
-  - title: "꾸미기"
-    url: /it/(6)-github-page-customizing
+
+#sidebar
+sidebar-contents:
+  - title: Programming Language
+    children:
+      - title: "Python"
+        url: /categories/Python
+  - title: Ect.
+    children:
+      - title: "Github"
+        url: /categories/github
+      - title: "Git Blog"
+        url: /categories/blog
