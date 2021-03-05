@@ -1,4 +1,5 @@
 ### Hi, I'm Jume! 🙋🏻‍♂️
+##  
 
 
 ![GitHub deployments](https://img.shields.io/github/deployments/smholvoet/smholvoet.github.io/github-pages?label=%20GitHub%20Pages)
@@ -12,7 +13,7 @@
 [![Lighthouse Best Practices Badge](assets/lighthouse/lighthouse_best-practices.svg)](https://developers.google.com/web/tools/lighthouse) -->
 
 
-This repo contains my personal blog: **[https://kwangjunechoi7.github.io](https://https://kwangjunechoi7.github.io/)**
+This repo contains my personal blog: **[https://kwangjunechoi7.github.io](https://kwangjunechoi7.github.io/)**
 
 It currently runs on:
 
