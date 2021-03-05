@@ -10,5 +10,4 @@ layout: single
 
 {% include figure image_path="/assets/images/2.png" alt="" caption="" %}
 
-
-Love knowledge sharing and learning all new kinds of stuff.
+Hi there!

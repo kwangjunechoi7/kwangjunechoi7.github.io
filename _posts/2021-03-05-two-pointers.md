@@ -7,7 +7,8 @@ categories:
 tags:
   - python
   - algorithm
-
+use_math: true
+comments: true
 last_modified_at : 2021-03-05-10:49
 ---
 
@@ -37,7 +38,7 @@ def solution(a, s):
 print(solution(a, s))
 ```
 
-코드에서 살펴볼 수 있듯, 예제의 풀이에서 2중 for문을 사용할 경우 시간복잡도가 $O(n^2)$ 소모된다. 다음은 Two Pointers를 이용한 해결법이다. 
+코드에서 살펴볼 수 있듯, 예제의 풀이에서 2중 for문을 사용할 경우 시간복잡도가 $$O(n^2)$$ 소모된다. 다음은 Two Pointers를 이용한 해결법이다. 
 
 
 ### Two Pointers
@@ -68,7 +69,7 @@ def solution_two_pointers(a,s):
     return answer
 ```
 
-배열을 정렬한 뒤 left 포인터와 right 포인터가 만날때까지 반복한다. 배열을 한번만 탐색하기 때문에, 정렬된 배열의 경우 $O(n)$으로 해결이 가능하며 정렬이 되어있지않더라도 $O(n\log{}n)$로 해결이 가능하다. 
+배열을 정렬한 뒤 left 포인터와 right 포인터가 만날때까지 반복한다. 배열을 한번만 탐색하기 때문에, 정렬된 배열의 경우 $$O(n)$$으로 해결이 가능하며 정렬이 되어있지않더라도 $$O(n\log{}n)$$로 해결이 가능하다. 
 
 이렇듯 Two Pointers는 주로 정렬된 배열을 대상으로 하며 두 개의 포인터가 좌우로 자유롭게 움직이며 문제를 해결한다. Sliding Window와 비슷한 점이 많은 풀이법이다. 
 
