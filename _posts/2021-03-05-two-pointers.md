@@ -1,6 +1,6 @@
 ---
 title : " Two Pointers "
-describe : " algorithm 기법 "
+describe : " python array algorithm "
 
 categories:
   - algorithm
