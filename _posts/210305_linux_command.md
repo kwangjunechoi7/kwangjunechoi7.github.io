@@ -1,5 +1,5 @@
 ---
-title : " 내가 보고 싶어 정리한 리눅스 명령어 모음집 "
+title : " 내가 보려고 정리한 리눅스 명령어 모음집 "
 describe : " linux commands "
 
 categories:
