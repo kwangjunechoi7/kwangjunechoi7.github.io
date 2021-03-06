@@ -266,6 +266,9 @@ compress_html:
   ignore:
     envs: development
 
+# Math equation
+markdown: kramdown
+
 
 # Defaults
 defaults:
