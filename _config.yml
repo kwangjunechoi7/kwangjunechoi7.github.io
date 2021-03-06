@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "June"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/1.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "pleasure of learning"
   location         : "Seoul"
   email            : "kwmme797@gmail.com"
