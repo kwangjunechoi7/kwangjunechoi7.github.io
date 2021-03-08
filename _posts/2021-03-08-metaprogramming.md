@@ -2,9 +2,6 @@
 title: Python Metaprogramming Part_A
 describe : " 파이썬 메타프로그래밍 학습, 이론정리 및 테스트 "
 
-aside:
- toc: true
-
 categories:
   - programming
 
