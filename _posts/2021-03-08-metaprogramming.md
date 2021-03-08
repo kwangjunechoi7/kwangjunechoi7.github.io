@@ -61,5 +61,5 @@ countdown(100000)
 ### Reference
 __________________________________________________________________
 <!-- 글 뒷 부분에 -->
-<a name="footnote_1">1</a> : [출처](https://ko.wikipedia.org/wiki/%EB%A9%94%ED%83%80%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)  
+<a name="footnote_1">1</a> : [출처_위키백과 메타프로그래밍](https://ko.wikipedia.org/wiki/%EB%A9%94%ED%83%80%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)  
 <a name="footnote_2">2</a> : Python Cookbook
